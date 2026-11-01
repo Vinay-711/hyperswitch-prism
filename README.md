@@ -137,7 +137,7 @@ Add to your `pom.xml`:
 </dependency>
 ```
 
-For detailed installation instructions, see [Installation Guide](./getting-started/installation.md).
+For detailed installation instructions, see [Installation Guide](./docs/getting-started/installation.md).
 
 ---
 
